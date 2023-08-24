@@ -43,4 +43,4 @@ Usando também o tipo de dado correto atrelado a cada variável.
 
 Ao fim da interação com o usuário, o programa retornará uma mensagem com todos dados informados.
 
-![](/home/mauricio/Imagens/Capturas de tela/Captura de tela de 2023-08-23 23-35-51.png)
+![](img/Captura de tela de 2023-08-23 23-35-51.png)
