@@ -44,3 +44,20 @@ Usando também o tipo de dado correto atrelado a cada variável.
 Ao fim da interação com o usuário, o programa retornará uma mensagem com todos dados informados.
 
 ![](img/Captura de tela de 2023-08-23 23-35-51.png)
+
+Terminal:
+
+|-----------------------------|
+
+-------- Bem vindo(a) ------- 
+
+Informe o nome do cliente: `Maria Rita`
+
+Informe o número da agência: `1234-5`
+
+Informe o número da conta: `0123`
+
+Informe o saldo em conta: `523,50`
+
+Olá **Maria Rita**, obrigado por criar uma conta em nosso banco, sua agência é **1234-5**, conta **123** e seu saldo R$
+**523,50**, já está disponível para saque.
